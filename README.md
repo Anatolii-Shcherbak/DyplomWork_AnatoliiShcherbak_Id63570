@@ -15,7 +15,7 @@ This folder contains the complete project for my diploma work, including all res
 
 2. **Web Version**  
    - Unity WebGL build hosted on GitHub Pages.  
-   - Playable in browser: [Click Here to Play](https://anatolii-shcherbak.github.io/DyplomWork_AnatoliiShcherbak/)  
+   - Playable in browser: [Click Here to Play](https://anatolii-shcherbak.github.io/DyplomProjectWork_AnatoliiShcherbak/)  
    - Notes for Web Version:
      - Please play in **Fullscreen mode**.  
      - **Do not use the Quit button**, it is for EXE only.  
