@@ -9,7 +9,7 @@ This folder contains the complete project for my diploma work, including all res
 ## 📂 Contents of This Folder
 
 1. **EXE Version**  
-   - The Windows executable of the visual novel game.
+   - ZIP folder 'BuildFinal' contains The Windows executable of the visual novel game.
    - Designed for desktop PC use.
    - Use the **Quit** button to close the game in this version.
 
