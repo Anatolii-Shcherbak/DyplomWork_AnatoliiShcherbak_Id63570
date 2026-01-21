@@ -35,7 +35,7 @@ This folder contains the complete project for my diploma work, including all res
 ---
 
 ## 📄 Folder with all Code 
-   - Link for Webgame repository: [WIP Code repository](https://github.com/Anatolii-Shcherbak/Accesability-Novel)
+   - Link for Webgame repository: [Code repository](https://github.com/Anatolii-Shcherbak/Accesability-Novel)
 ---
 
 ## © Copyright
